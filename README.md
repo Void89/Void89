@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Void89
+- 👀 I’m interested in programming, assembling computers and music.
+- 🌱 I’m currently learning html&css and javascript
+- 📫 How to reach me ...
